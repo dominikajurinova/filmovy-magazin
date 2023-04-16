@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css'; 
 import { movies } from '../../movie-database';
 import { useParams } from "react-router-dom";
-//import blindsClosed from '../../img/blinds-closed.svg';
+
 
 
 const Movie = () => {

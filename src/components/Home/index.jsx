@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css'; 
-//import blindsClosed from '../../img/blinds-closed.svg';
+
 
 
 const Home = () => {

@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css'; 
 import { movies } from '../../movie-database';
 import { Link } from "react-router-dom";
-//import blindsClosed from '../../img/blinds-closed.svg';
+
 
 
 const MovieList = () => {
